@@ -27,7 +27,7 @@ function App() {
       <main>
         <div>
           <Projects></Projects>
-          <About></About>
+          <AboutMe></AboutMe>
         </div>
       </main>
     </div>
