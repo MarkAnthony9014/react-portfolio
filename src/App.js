@@ -7,8 +7,8 @@ import Projects from './components/Projects'
 function App() {
   const [projects] = useState([
     {
-      name: 'Run Buddy',
-      description: 'A fitness tracking application',
+      name: 'LiftoSphere',
+      description: 'A social media community for fitness. Encourage and guide others, while learning.',
     },
     { name: 'Taskinator Pro', description: 'A task tracking application' },
     { name: 'Git It Done', description: 'A search engine for Git repositories' },
@@ -26,8 +26,8 @@ function App() {
       ></Nav>
       <main>
         <div>
-          <Projects></Projects>
           <AboutMe></AboutMe>
+          <Projects></Projects>
         </div>
       </main>
     </div>
