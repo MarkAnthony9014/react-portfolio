@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/photo-port/static/css/main.2aca18d1.css",
-    "main.js": "/photo-port/static/js/main.2f12d69f.js",
-    "static/js/787.a2cb61a6.chunk.js": "/photo-port/static/js/787.a2cb61a6.chunk.js",
-    "static/media/mark-cover-image.jpg": "/photo-port/static/media/mark-cover-image.beb80a87e2fca1ac6604.jpg",
-    "static/media/reactrunbuddy.JPG": "/photo-port/static/media/reactrunbuddy.14c328934ee794f271a2.JPG",
-    "index.html": "/photo-port/index.html",
-    "main.2aca18d1.css.map": "/photo-port/static/css/main.2aca18d1.css.map",
-    "main.2f12d69f.js.map": "/photo-port/static/js/main.2f12d69f.js.map",
-    "787.a2cb61a6.chunk.js.map": "/photo-port/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.2aca18d1.css",
+    "main.js": "/react-portfolio/static/js/main.f496f8af.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/mark-cover-image.jpg": "/react-portfolio/static/media/mark-cover-image.beb80a87e2fca1ac6604.jpg",
+    "static/media/liftosphereport.jpeg": "/react-portfolio/static/media/liftosphereport.f785f97fa4f996b69308.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.2aca18d1.css.map": "/react-portfolio/static/css/main.2aca18d1.css.map",
+    "main.f496f8af.js.map": "/react-portfolio/static/js/main.f496f8af.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aca18d1.css",
-    "static/js/main.2f12d69f.js"
+    "static/js/main.f496f8af.js"
   ]
 }
